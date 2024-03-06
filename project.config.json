@@ -1,0 +1,60 @@
+{
+    "description": "项目配置文件",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "setting": {
+        "urlCheck": false,
+        "es6": true,
+        "enhance": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true,
+        "coverView": true,
+        "nodeModules": true,
+        "autoAudits": false,
+        "checkInvalidKey": true,
+        "checkSiteMap": true,
+        "uploadWithSourceMap": true,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        }
+    },
+    "compileType": "miniprogram",
+    "libVersion": "3.3.4",
+    "appid": "wx170393a46e9982a8",
+    "projectname": "c-sleeve",
+    "simulatorType": "wechat",
+    "simulatorPluginLibVersion": {},
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "pages/detail/detail",
+                    "pathName": "pages/detail/detail",
+                    "query": "pid=2",
+                    "scene": null
+                },
+                {
+                    "name": "无规格",
+                    "pathName": "pages/detail/detail",
+                    "query": "pid=11",
+                    "scene": null
+                },
+                {
+                    "name": "pages/home/test",
+                    "pathName": "pages/test/index",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    },
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}

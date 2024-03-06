@@ -1,0 +1,14 @@
+{
+  "name": "sleeve",
+  "version": "1.0.0",
+  "description": "Hello，大家好，我是7七月。本源码属于7七月的新Java全栈课第一阶段小程序部分。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lin-ui": "^0.9.13"
+  }
+}
